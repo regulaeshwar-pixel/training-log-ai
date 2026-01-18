@@ -1,0 +1,8 @@
+
+{
+  "name": "Obsidian System - Training Log",
+  "description": "A high-performance discipline tracking system with gamified rank progression, continuity streaks, and AI-driven performance insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
