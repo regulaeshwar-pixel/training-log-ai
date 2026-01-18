@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.eshwar.traininglogai",
+            "sha256_cert_fingerprints": [
+                "72:D4:EE:17:83:84:43:9B:E8:87:5F:7E:2C:23:5C:46:A3:B9:5D:2F:CF:99:14:A5:D5:93:DE:63:61:DE:47:48"
+            ]
+        }
+    }
+]
